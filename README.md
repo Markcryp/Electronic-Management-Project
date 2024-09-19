@@ -58,7 +58,7 @@ The project is organized into the following files:
 1.Cl1.py: The main file that contains the CLI application.
 2.Models.py: The file that contains the ORM models for the data model.
 3.Fixtures.py: The file that contains the fixtures for the data model.
-README.md: The file that contains the documentation for the project.
+4.README.md: The file that contains the documentation for the project.
 
 ## Conclusion
 This project is a CLI application
